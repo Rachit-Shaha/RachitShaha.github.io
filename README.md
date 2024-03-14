@@ -1,8 +1,18 @@
-# Data Scientist
+# Software Engineer | AI & Machine Learning Enthusiast 
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## Technical Skills
+- Languages: Python, GoLang, C, C++, HTML, CSS
+- Frameworks and Libraries: Langchain, Pytorch, Tensorflow, TFLearn, OpenCV, Numpy, Pandas, SkLearn, Matplotlib
+- Database: SQL, MongoDB, VectorDB (Pinecone, FAISS)
+- Cloud Computing: GCP
+- Coursework: Data Structures and Algorithms, Artificial Intelligence, Software Engineering, Machine Learning, NLP, Operating Systems, Data Visualization, Numerical Computation, Computer Architecture, Mathematics, Probability.
+- Technologies: Gen AI, NLP, Distributed Systems, Reinforcement Learning, Model Fine-Tuning, Model Development, Object-Oriented Programming, Computer Vision
+- Software and Tools: Pycharm, OpenAI Studio on Microsoft Azure, VS Code, Tableau, Anaconda, Jupyter, Github, Excel 
+- Operating Systems: Linux, Unix, Windows, iOS
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education								       		
+- M.S., Computer Science	| University of Maryland Baltimore County (_May 2024_)	 			        		
+- B.Tech., Computer Science | Walchand Institute of Technology (_July 2022_)
+
+## Work Experience
+- 
