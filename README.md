@@ -21,7 +21,7 @@
 - Led the 'Object Detection by Autonomous Vehicles' project, developing a model using the Single Shot Multibox Detector (YOLO) algorithm to detect pedestrians, cycles, cars, and trucks with 77% accuracy.
 - Completed courses in Deep Learning, Neural Networks, Convolutional Neural Networks, and Computer Vision to acquire the necessary knowledge and skills for the project.
 - Tech Stack: YOLO, Object Detection, ADAS Technology, Deep Learning
-- 
+  
 ## Education								       		
 - M.S., Computer Science	| University of Maryland Baltimore County (_May 2024_)
   -- GPA - 3.63
