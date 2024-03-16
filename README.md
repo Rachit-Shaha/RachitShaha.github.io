@@ -1,6 +1,6 @@
 # Software Engineer | AI & Machine Learning Enthusiast 
 
-[LinkedIn](https://www.linkedin.com/in/rachit-shaha-95465b180/) [GitHub](https://github.com/Rachit-Shaha)
+[LinkedIn](https://www.linkedin.com/in/rachit-shaha-95465b180/) \| [GitHub](https://github.com/Rachit-Shaha)
 
 ## Technical Skills
 - **Languages**: Python, GoLang, C, C++, HTML, CSS
