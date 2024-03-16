@@ -91,7 +91,7 @@
 
 **Introduction to Structured Query Language** *From University of Michigan on Coursera*
 
-**Langchain - Develop LLMpowered applications with Langchain** *On Udemy*
+**Langchain - Develop LLM powered applications with Langchain** *On Udemy*
 
 **Machine Learning: A Case Study Approach** *From University of Washington on Coursera*
 
