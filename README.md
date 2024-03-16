@@ -1,6 +1,6 @@
 # Software Engineer | AI & Machine Learning Enthusiast 
 
-[rachitshaha78765@gmail.com](rachitshaha78765@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/rachit-shaha-95465b180/) \| [GitHub](https://github.com/Rachit-Shaha)
+[rachitshaha78765@gmail.com](mailto:rachitshaha78765@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/rachit-shaha-95465b180/) \| [GitHub](https://github.com/Rachit-Shaha)
 
 ## Technical Skills
 - **Languages**: Python, GoLang, C, C++, HTML, CSS
