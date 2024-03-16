@@ -76,13 +76,21 @@
 ## Certifications
 
 **Algorithmic Toolbox** *From UC San Diego on Coursera*
+
 **AWS Academy Graduate - AWS Academy Cloud Foundations**
+
 **Blockchain Basics** *From SUNY Buffalo on Coursera*
+
 **Building Web Applications in PHP** *From University of Michigan on Coursera*
+
 **Crash Course on Python** *From Google on Coursera*
+
 **Data Structures** *From UC San Diego on Coursera*
+
 **Introduction to Structured Query Language** *From University of Michigan on Coursera*
+
 **Langchain - Develop LLMpowered applications with Langchain** *On Udemy*
+
 **Machine Learning: A Case Study Approach** *From University of Washington on Coursera*
 
 
