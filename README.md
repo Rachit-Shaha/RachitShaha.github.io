@@ -6,7 +6,7 @@
 - **Languages**: Python, GoLang, C, C++, HTML, CSS
 - **Frameworks and Libraries**: Langchain, Pytorch, Tensorflow, HuggingFace, TFLearn, OpenCV, Numpy, Pandas, SkLearn, Matplotlib
 - **Database**: SQL, MongoDB, VectorDB (Pinecone, FAISS)
-- **Cloud Computing**: GCP [(QwikLabs Profile)](https://www.cloudskillsboost.google/public_profiles/a18ae340-5d65-4faa-a5a5-8c5326553179) 
+- **Cloud Computing**: GCP [(Google Cloud Profile)](https://www.cloudskillsboost.google/public_profiles/a18ae340-5d65-4faa-a5a5-8c5326553179) 
 - **Coursework**: Data Structures and Algorithms, Artificial Intelligence, Software Engineering, Machine Learning, NLP, Operating Systems, Data Visualization, Numerical Computation, Computer Architecture, Mathematics, Probability.
 - **Technologies**: Gen AI, NLP, Distributed Systems, Reinforcement Learning, Model Fine-Tuning, Model Development, Object-Oriented Programming, Computer Vision
 - **Software and Tools**: Pycharm, OpenAI Studio on Microsoft Azure, VS Code, Tableau, Anaconda, Jupyter, Github, Excel, Weka 
