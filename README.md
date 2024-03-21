@@ -109,7 +109,7 @@
 
 **Email**: [rachitshaha78765@gmail.com](mailto:rachitshaha78765@gmail.com)
 
-**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/rachit-shaha-95465b180/)
+**LinkedIn**: [Rachit Shaha](https://www.linkedin.com/in/rachit-shaha-95465b180/)
 
 
 
