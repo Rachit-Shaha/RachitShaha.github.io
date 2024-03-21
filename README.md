@@ -1,13 +1,13 @@
-# Software Engineer | AI & Machine Learning Enthusiast 
+# Software Engineer | AI, Data Science & Machine Learning Enthusiast 
 
 [rachitshaha78765@gmail.com](mailto:rachitshaha78765@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/rachit-shaha-95465b180/) \| [GitHub](https://github.com/Rachit-Shaha)
 
 ## Technical Skills
-- **Languages**: Python, GoLang, C, C++, HTML, CSS
+- **Languages**: Python, GoLang, R, C, C++, HTML, CSS
 - **Frameworks and Libraries**: Langchain, Pytorch, Tensorflow, HuggingFace, TFLearn, OpenCV, Numpy, Pandas, SkLearn, Matplotlib
 - **Database**: SQL, MongoDB, VectorDB (Pinecone, FAISS)
 - **Cloud Computing**: GCP [(Google Cloud Profile)](https://www.cloudskillsboost.google/public_profiles/a18ae340-5d65-4faa-a5a5-8c5326553179) 
-- **Coursework**: Data Structures and Algorithms, Artificial Intelligence, Software Engineering, Machine Learning, NLP, Operating Systems, Data Visualization, Numerical Computation, Computer Architecture, Mathematics, Probability.
+- **Coursework**: Data Structures and Algorithms, Artificial Intelligence, Software Engineering, Data Science, Machine Learning, NLP, Operating Systems, Data Visualization, Numerical Computation, Computer Architecture, Mathematics, Probability.
 - **Technologies**: Gen AI, NLP, Distributed Systems, Reinforcement Learning, Model Fine-Tuning, Model Development, Object-Oriented Programming, Computer Vision
 - **Software and Tools**: Pycharm, OpenAI Studio on Microsoft Azure, VS Code, Tableau, Anaconda, Jupyter, Github, Excel, Weka 
 - **Operating Systems**: Linux, Unix, Windows, iOS
@@ -44,6 +44,14 @@
 - Identified BERT and ROBERTA as top performers with scores of 52.84% and 52.80% respectively, showcasing analytical skills in comparing LLMs.
 - Enhanced LLMs by adding custom layers to improve their understanding of domain-specific data, resulting in increased performance.
 - Tech Stack: LLMs, NLP, Python, Fine-Tuning LLMs, GPT, HuggingFace
+
+**Market Basket Analysis of Instacart Data**
+- Led a team in conducting a comprehensive market basket analysis on Instacart's extensive dataset, resulting in a deeper understanding of customer purchasing behaviors and product associations.
+- Developed a data processing pipeline using Python and Pandas, which included data collection, cleaning, and statistical analysis, enhancing the efficiency and accuracy of the analysis.
+- Implemented the Apriori and FP-growth algorithms for association rule mining, successfully identifying key product combinations and purchasing patterns that led to actionable insights for targeted marketing and product placement strategies.
+- Conducted exploratory data analysis (EDA) to visualize and interpret patterns in customer orders, product popularity, and reordering trends, providing a foundation for data-driven decision-making.
+- Achieved a significant increase in the understanding of product associations and customer purchasing habits, enabling more effective inventory management and marketing strategies for Instacart.
+- Tech Stack: Python, Pandas, Data Pipelining, Matplotlib
 
 **Evaluation of Classification Algorithms in ML on Synthetic Datasets**
 - Researched various data synthesis tools and the workings of different classification algorithms such as SVM, XGBoost, Naive Bayes, and Logistic Regression.
@@ -94,6 +102,16 @@
 **Langchain - Develop LLM powered applications with Langchain** *On Udemy*
 
 **Machine Learning: A Case Study Approach** *From University of Washington on Coursera*
+
+**Python for Data Science** *From IBM on EDX*
+
+## Contact 
+
+**Email**: [rachitshaha78765@gmail.com](mailto:rachitshaha78765@gmail.com)
+
+**LinkedIn**: [LinkedIn](https://www.linkedin.com/in/rachit-shaha-95465b180/)
+
+
 
 
 
