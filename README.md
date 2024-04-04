@@ -34,7 +34,7 @@
 
 ## Projects
 **MCQ Generator Application**
-- "Developed a Generative AI application using Langchain Framework and Pinecone Database to generate Multiple-Choice Questions (MCQs) from text or PDF files.
+- "Developed a Generative AI application using Langchain Framework to generate Multiple-Choice Questions (MCQs) from text or PDF files.
 - The application allows users to set the difficulty level (simple, moderate, or difficult) and request a specific number of MCQs (e.g., 5, 10, or 20).
 - Implemented a unique architecture with two Langchain chains: one for generating MCQs and another for reviewing the solutions.
 - Utilized the GPT-3.5 model for prompt handling and built an end-to-end application with a front end developed using Streamlit.
