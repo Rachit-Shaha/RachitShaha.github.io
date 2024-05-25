@@ -26,8 +26,8 @@
   
 ## Education								       		
 - M.S., Computer Science	| University of Maryland Baltimore County (_May 2024_)
-  - GPA - 3.63
-  - Currently Working as a Graduate Assistant for 'Introduction to Machine Learning' Course             		
+  - GPA - 3.67
+  - Worked as Graduate Assistant for 'Introduction to Machine Learning' Course             		
 - B.Tech., Computer Science | Walchand Institute of Technology (_July 2022_)
   - GPA - 3.98
   - Achieved 2nd Rank in the University
