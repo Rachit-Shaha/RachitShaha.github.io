@@ -1,4 +1,4 @@
-# Software Engineer | AI, Data Science & Machine Learning Enthusiast 
+# Software Engineer | AI, Data Science & Machine Learning Enthusiast | Azure Certified AI Engineer 
 
 [rachitshaha78765@gmail.com](mailto:rachitshaha78765@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/rachit-shaha-95465b180/) \| [GitHub](https://github.com/Rachit-Shaha)
 
@@ -104,6 +104,8 @@
 - Tech Stack: Python, Computer Vision, Tensorflow, TFLearn, Deep Learning
 
 ## Certifications
+
+**Microsoft Certified: Azure AI Engineer Associate** *AI-102 Certification*
 
 **Algorithmic Toolbox** *From UC San Diego on Coursera*
 
